@@ -1,0 +1,13 @@
+{
+  "name": "nuxt3-app",
+  "scripts": {
+    "dev": "nuxt dev",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.4.2"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "8.0.0-beta.11"
+  }
+}
